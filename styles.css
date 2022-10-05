@@ -61,6 +61,34 @@ body {
     line-height: 40px;
   }
 
+  .feedback{
+    background: url("img/feedback.png");
+    font-size: 30px;
+    line-height: 50px;
+    padding-bottom: 1480px;
+  }
+
+  .registration{
+    background: url("img/registrationBG.png");
+    padding-bottom: 1080px;
+    }
+
+  .signUp{
+    background: url("img/signInBG.png");
+    padding-bottom: 1080px;
+  }
+
+  .button_reg{
+    background: #83d0f5;
+    border: 0;
+    font-size:40px ;
+  }
+
+  .button_signUp{
+    background: #8ec89a;
+    border: 0;
+    font-size: 40px;
+  }
 
   .centre{
     font-size: 35px;
